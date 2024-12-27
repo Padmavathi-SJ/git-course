@@ -6,4 +6,3 @@
 * git log --> to know about the all commits done in this repo
 * git commit -m "message" --> to commit the changes made
 * after making changes --> have to move the files into staging area --> then only we can commit the made changes
-* 
