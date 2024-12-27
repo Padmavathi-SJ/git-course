@@ -32,4 +32,3 @@
 * git branch -d feature2 --> to delete a branch
 * if we are in main branch , we can able to view only the files which are created while in main branch
 * if we moved to another branch , we cannot able to view tha another branch's files...
-* 
