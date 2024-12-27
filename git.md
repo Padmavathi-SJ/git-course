@@ -23,3 +23,4 @@
 * git checkout -b feature1 --> to create a new branch (feature1 is new branch name)
 * git branch --> to list the availabe branches
 * by indicating *feature1 --> can know feature1 is the **active branch**
+* to create a new branch we can use **checkout and switch** , both are same
