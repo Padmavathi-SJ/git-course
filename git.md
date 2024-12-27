@@ -24,3 +24,6 @@
 * git branch --> to list the availabe branches
 * by indicating *feature1 --> can know feature1 is the **active branch**
 * to create a new branch we can use **checkout and switch** , both are same
+* git switch main -> to switch from feature1 branch to main branch
+* git switch feature1 --> to switch from main branch to feature1 branch
+* 
