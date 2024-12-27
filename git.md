@@ -29,3 +29,4 @@
 * git switch feature1 --> to switch from main branch to feature1 branch
 * git checkout -b **new branch name** --> if we are creating a new branch using checkout , have to **-b**
 * git switch -c **new branch name** -->  if we are creating a new branch using checkout , have to **-c**
+* git branch -d feature2 --> to delete a branch
