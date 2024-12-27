@@ -22,8 +22,10 @@
 * git checkout **new branch name**--> we can change our branch name 
 * git checkout -b feature1 --> to create a new branch (feature1 is new branch name)
 * git branch --> to list the availabe branches
+* git branch --all --> also list the all available branches
 * by indicating *feature1 --> can know feature1 is the **active branch**
 * to create a new branch we can use **checkout and switch** , both are same
 * git switch main -> to switch from feature1 branch to main branch
 * git switch feature1 --> to switch from main branch to feature1 branch
-* 
+* git checkout -b **new branch name** --> if we are creating a new branch using checkout , have to **-b**
+* git switch -c **new branch name** -->  if we are creating a new branch using checkout , have to **-c**
