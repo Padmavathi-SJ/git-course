@@ -19,3 +19,7 @@
 * git tag -a v1.0 -m "1st release" --> to create a version via tag
 * git tag --> to see the all tags
 * git show v1.0 --> to know about v1.0 tag
+* git checkout **new branch name**--> we can change our branch name 
+* git checkout -b feature1 --> to create a new branch (feature1 is new branch name)
+* git branch --> to list the availabe branches
+* by indicating *feature1 --> can know feature1 is the **active branch**
